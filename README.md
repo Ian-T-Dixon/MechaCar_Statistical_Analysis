@@ -1,5 +1,5 @@
-# MechaCar_Statistical_Analysis
-R Statistical Analysis of the MechaCar
+# MechaCar Statistical Analysis
+Use R to run statsitical analysis on various data sets to determine trends and correlations.
 
 
 ## Linear Regression to Predict MPG
@@ -43,4 +43,23 @@ Based on a significance level of .05, and using the p-values: we can determine t
 ![T.Test Lot 2](https://github.com/Ian-T-Dixon/MechaCar_Statistical_Analysis/blob/main/Figures/t.test_lot2.PNG)
 
 ![T.Test Lot 3](https://github.com/Ian-T-Dixon/MechaCar_Statistical_Analysis/blob/main/Figures/t.test_lot3.PNG)
+  
+## Study Design: MechaCar vs Competition
+When comparing the MechaCar to other cars, a study on the following categories could be helpful to consumers: 
+- Engine power BHP
+- Engine size (cc) ...
+- Acceleration (0-60 mph) ...
+- Top speed (mph) ...
+- Urban (mpg) ...
+- Highway (mpg) ...
+- Combined (mpg) ...
+- CO2 emissions (g/km)
+
+If we were taking top speed for example. The null hypothesis would be that there is no statisitcal differences between the top speed of the mechacar and the competition, while the alternative hypothesis is that the MechaCar is significantly different.
+
+To answer the hypothesis, we would need to run a T-Test to see if there is a statistical difference between the mean of the sample distribution and the mean of the population distribution.
+  
+We would need additional data on Top Speed, as well as what independent variables most effect it.
+
+  
   
