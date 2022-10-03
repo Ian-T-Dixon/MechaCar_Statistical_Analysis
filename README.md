@@ -7,7 +7,7 @@ Use R to run statsitical analysis on various data sets to determine trends and c
 
 <b>- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</b>
 
-Based off of the Linear Regression results, it appears that vehicle length and ground clearance contribute significantly to the mpg values. This is due to the P values being close to 0. When a P-Value is close to 0, it means that those variables are statistically unlikely to contribute randomly to variance.  th
+Based off of the Linear Regression results, it appears that vehicle length and ground clearance contribute significantly to the mpg values. This is due to the P values being close to 0. When a P-Value is close to 0, it means that those variables are statistically unlikely to contribute randomly to variance.
   
 <b>- Is the slope of the linear model considered to be zero? Why or why not?</b>
 
